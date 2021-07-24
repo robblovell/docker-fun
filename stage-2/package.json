@@ -1,0 +1,9 @@
+{
+  "name": "docker-fun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node foo.js && node fun.js"
+  }
+}
